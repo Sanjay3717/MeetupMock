@@ -1,0 +1,28 @@
+.website-register {
+  height: 300px;
+}
+.label-value {
+  color: #334155;
+}
+.input-style {
+  width: 300px;
+  padding-left: 20px;
+  margin-bottom: 30px;
+  margin-top: 20px;
+  height: 30px;
+}
+.register-form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 90vh;
+}
+.register-btn {
+  background-color: #3b82f6;
+  border-radius: 5px;
+  color: #ffffff;
+  border-width: 0px;
+  height: 30px;
+  width: 100px;
+  cursor: pointer;
+}
